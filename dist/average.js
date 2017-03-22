@@ -10,7 +10,7 @@ console.log(output); // --> 5
 function average(num1, num2) {
   // your code here
   /* START SOLUTION */
-  return (num1 + num2) / 2;
+  return (num1 + num2) / 3;
   /* END SOLUTION */
 }
 

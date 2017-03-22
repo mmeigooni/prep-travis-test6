@@ -3,7 +3,7 @@ describe("average", function() {
     expect(typeof average(1, 12)).toBe("number");
   });
   it("should return the average of two numbers", function() {
-    expect(average(2, 4)).toBe(3);
+    expect(average(2, 4)).toBe(4);
   });
   console.log("checkAverage test run");
 });
